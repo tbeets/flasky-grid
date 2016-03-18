@@ -27,8 +27,8 @@ Based on commit tag 4b of the [git repository](https://github.com/miguelgrinberg
     
 ## Application execution
 
-    docker pull tbeets/flasky-grid:1.0
-    docker run -i -t -p 5000:5000 tbeets/flasky-grid:1.0
+    docker pull tbeets/flasky-grid:latest
+    docker run -i -t -p 5000:5000 tbeets/flasky-grid:latest
     
 # Local Image Build and Execution (Optional)
 
